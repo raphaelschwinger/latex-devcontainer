@@ -29,7 +29,6 @@ RUN apt-get update && apt-get install -y \
   "$PYTHONIS" \
   # Java runtime environment (e.g. for arara)
   "$JRE" \
-  \# will be used to add a user
   adduser && \
   # Removing documentation packages *after* installing them is kind of hacky,
   # but it only adds some overhead while building the image.
