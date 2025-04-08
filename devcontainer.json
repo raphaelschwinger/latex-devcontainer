@@ -7,7 +7,7 @@
         "vscode": {
             "extensions": [
                 "james-yu.latex-workshop",
-                "valentjn.vscode-ltex"
+                "ltex-plus.ltex-plus"
             ]
         },
         "settings": {
